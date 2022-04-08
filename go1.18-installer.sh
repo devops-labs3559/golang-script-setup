@@ -38,7 +38,6 @@ Note: Changes made to a profile file may not apply until the next time you log i
       source ~/.bashrc
       exec $SHELL
 BOT3
-exec $SHELL
 eval $awt2&&date +"%H:%M:%S"
 eval $awt2&&echo "
 Finished!"
