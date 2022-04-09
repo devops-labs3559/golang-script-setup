@@ -48,8 +48,8 @@ echo '  -------------------------------------------------
         -------------------------------------------------
      '
 cat <<BOT3
-Note 2: Changes made to a profile file may not take effect until
-        the next time you log into your computer.
+Note 2: Changes made to a profile file may not take effect
+        until the next time you log into your computer.
         To apply the changes immediately, simply run the
         shell commands directly or run them from the
         profile using commands like:
